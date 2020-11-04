@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604461408 source:/root/DataStructures/LinkedListOperations2/main.cpp
+	"Header.h"
+
+1604460557 /root/DataStructures/LinkedListOperations2/Header.h
+	<iostream>
+
