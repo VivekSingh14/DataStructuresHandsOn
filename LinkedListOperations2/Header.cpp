@@ -77,6 +77,14 @@ bool LinkedList::insert(int data, int position){
 return true;
 }
 
+bool LinkedList::deleteNode(int node){
+    if(head == NULL){
+        return false;
+    }
+
+    if
+}
+
 void LinkedList::display(){
     Node* temp = head;
 

@@ -19,6 +19,7 @@ public:
     LinkedList();
     bool insert( int );
     bool insert( int, int );
+    bool deleteNode(int);
     void display();
     ~LinkedList();
 
