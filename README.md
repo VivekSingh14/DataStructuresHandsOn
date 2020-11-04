@@ -1,8 +1,8 @@
 # DataStructuresHandsOn
 
 
-1. Added the following operations on LinkedList:
-  a. #Traversing
-  b. #Insertion
-  c. #Insertion on given position
-  d. Cleaning the memory using #destructor
+# 1. Added the following operations on LinkedList:
+# Traversing
+# Insertion
+# Insertion on given position
+# Cleaning the memory using destructor
